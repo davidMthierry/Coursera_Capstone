@@ -1,12 +1,16 @@
+# IBM Data Science Professional Certificate Capstone Project 
+This project aims to utilize all Data Science Concepts learned in the IBM Data Science Professional Course. We define a Business Problem, the data that will be utilized and using that data, we are able to analyze it using Machine Learning tools. In this project, we will go through all the processes in a step by step manner from problem designing, data preparation to final analysis and finally will provide a conclusion that can be leveraged by the business stakeholders to make their decisions.
+
+# Table of Contents
+-Introduction
+-Target Audience
+-Data Overview
+-Methodology
+-Discussion
+-Conclusion
+
 # Introduction
 My report is for those who are planning to start a new restaurant. I'll try to provide as many suggestions on what all factors need to be considered while starting a new venture.
 
-# Business Problem
-In my report I'm going to focus on problems one might face while opening a new restaurant in San Francisco. There are many factors that need to be considered to open a business. For example say Chad wants to open an Sushi restaurant, first and foremost important point to decide is the location for his new restaurant. In this case, we will focus on placing our restaurant in a location where the food inspection ratings are lower than average. Chad is confident in his ability to maintain a restaurant that operates on a far superior level in terms cleanliness without issue. He hopes that incoming customers will notice the contrasting cleanliness of his restaurant compared to others in the area and be delighted to know that they dont have to worry about that when they eat at Chad's. By having that good initial impression, Chad can focus his research and development costs into the kitchen where he believes it matters the most. Based on this logic, Chad wants to know where would be the best place to open his Sushi restaurant named Chad's. Is his ideal plan to relocate even feasible? Compare this to other metrics such as number of different type cusines themed restaurants surrounding the area.
-
 ### Target Audience
-Entrepreneurs who are passionate about opening a sushi shop in a metropolitan city would be very interested in this project. The project is also for business owners and stakeholders who want to expand their businesses and wonder how data science could be applied to the questions at hand.
-
-
-### Discussion
-Let's discuss the above mentioned problem statements. Firstly Chad needs to choose a suitable location for her restaurant. Let's say Chad wants to open a new Sushi Restaurant in San Francisco. San Francisco is a famous tourist attraction filled city, and real estate is very costly. So assuming that Chad wants to rent a place for his new restaurant. And now he needs to figure out how many restaurants are there in say neighborhood A, B, C, etc. If there are more than two Sushi restaurants in a neighborhood then that would be a great risk to open new restaurant of same cuisine in that neighborhood. Selecting a place where there is less or no restaurant would be of great choice, considering the rent of neighborhood too. He needs to look for a place where many people frequently visit so that her business is above average. Places like Downtown, Movie theatre, Malls & Gas stations would help her business running. Restaurants ratings might help in deciding location crowd. I would also suggest that Grace should check for opening and closing timings of other restaurants. She may try opening her place 30 mins before other restaurants open up and close 30 mins or 1 hour later the other restaurants, this might help to get more customers.
+Entrepreneurs who are passionate about opening a italian restaurant in a metropolitan city would be very interested in this project. The project is also for business owners and stakeholders who want to expand their businesses and wonder how data science could be applied to the questions at hand. 
