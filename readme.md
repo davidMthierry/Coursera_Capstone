@@ -101,7 +101,7 @@ From the bar graph that was made using Matplotlib, we can compare the number of 
 Then we compared the average Italian Restaurants per cluster. From the bar graph that was made using Matplotlib, we can compare the the average Italian Restaurants per cluster. We see that Cluster 1 has the least italian restaurants while cluster 2 has the most. Cluster 3 has around half the number of italian restaurants as cluster 4.
 
 ####  Cluster Analysis
-This information is crucial as we can see that even though there is only 1 neighbourhood in Cluster 1, it has the highest number of Italian Restaurants (0.1304) while Cluster 2 has the most neighbourhoods but has the least average of Italian Restaurants (0.0009). Also, from the map, we can see that neighbourhoods in Cluster 2 are the most sparsely populated. Now let’s analyze the Clusters one by one.
+This information is crucial as we can see that even though there is only 1 Italian restaurant in Cluster 1, it has the highest number of neighborhoods (0.1304) while Cluster 2 has the least neighborhoods but has the highest average of Italian Restaurants (0.0009). Also, from the map, we can see that neighborhoods in Cluster 2 are the most sparsely populated. Now let us analyze the clusters one by one.
 
 #### Cluster 1: Red
 Cluster 1 was mainly in the East Toronto Area. First Canadian Place, Underground city, Richmond, Adelaide, King were among some neighborhoods that were in that cluster. Cluster 1 had 173 unique Venue locations and out of those only 1 were Italian Restaurants. Cluster 1 had the lowest average of Italian Restaurants equating to 0.0.
