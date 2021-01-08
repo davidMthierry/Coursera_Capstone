@@ -75,9 +75,13 @@ Now we will cluster the neighborhoods.
 
 We will use k-means clustering. But first we will find the best K using the Elbow Point method.
 
-![optimalk](https://github.com/davidMthierry/Coursera_Capstone/blob/master/imgs/optimim_k.png)
+![optimalk](https://github.com/davidMthierry/Coursera_Capstone/blob/master/imgs/optimum_k.png)
 
-We see that the optimum K value is 4 so we will have a resulting of 4 clusters. So from here we run our K-Means algorithm with four clusters. After, we append the cluster results to the DataFrame as shown below. 
+We see that the optimum K value is 4 so we will have a resulting of 4 clusters. 
+
+[kmeanscode](https://github.com/davidMthierry/Coursera_Capstone/blob/master/imgs/kmeans_code.png)
+
+So from here we run our K-Means algorithm with four clusters. After, we append the cluster results to the DataFrame as shown below. 
 
 ![to_merged](https://github.com/davidMthierry/Coursera_Capstone/blob/master/imgs/to_merged.png)
 
@@ -96,7 +100,7 @@ From the bar graph that was made using Matplotlib, we can compare the number of 
 
 Then we compared the average Italian Restaurants per cluster. From the bar graph that was made using Matplotlib, we can compare the the average Italian Restaurants per cluster. We see that Cluster 1 has the least italian restaurants while cluster 2 has the most. Cluster 3 has around half the number of italian restaurants as cluster 4.
 
-## Cluster Analysis
+####  Cluster Analysis
 This information is crucial as we can see that even though there is only 1 neighbourhood in Cluster 1, it has the highest number of Italian Restaurants (0.1304) while Cluster 2 has the most neighbourhoods but has the least average of Italian Restaurants (0.0009). Also, from the map, we can see that neighbourhoods in Cluster 2 are the most sparsely populated. Now let’s analyze the Clusters one by one.
 
 #### Cluster 1: Red
