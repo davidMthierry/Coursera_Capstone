@@ -79,7 +79,7 @@ We will use k-means clustering. But first we will find the best K using the Elbo
 
 We see that the optimum K value is 4 so we will have a resulting of 4 clusters. 
 
-[kmeanscode](https://github.com/davidMthierry/Coursera_Capstone/blob/master/imgs/kmeans_code.png)
+![kmeanscode](https://github.com/davidMthierry/Coursera_Capstone/blob/master/imgs/kmeans_code.png)
 
 So from here we run our K-Means algorithm with four clusters. After, we append the cluster results to the DataFrame as shown below. 
 
