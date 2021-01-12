@@ -10,7 +10,7 @@ This project aims to utilize all Data Science Concepts learned in the IBM Data S
 - Conclusion
 
 # Introduction
-My report is for those who are planning to start a new restaurant. I'll try to provide as many suggestions on what all factors need to be considered while starting a new venture.
+My report is for those who are planning to start a new restaurant. 
 
 # Target Audience
 Entrepreneurs who are passionate about opening a italian restaurant in a metropolitan city would be very interested in this project. The project is also for business owners and stakeholders who want to expand their businesses and wonder how data science could be applied to the questions at hand. 
@@ -87,7 +87,9 @@ So from here we run our K-Means algorithm with four clusters. After, we append t
 
 Lets check how many Italian Restaurant are there. After runing a short line of code, we see that there are a total of 40 locations with Italian Restaurants in Toronto.
 
-We will create a new dataframe with the Neighborhood and Italian Restaurants
+Also, this is what our clusters look like now after we have run our algorithm. 
+
+![clusters](https://github.com/davidMthierry/Coursera_Capstone/blob/master/imgs/clusters.png)
 
 #### 4.4 Data Analysis
 We have a total of 4 clusters (0,1,2,3). Before we analyze them one by one let's check the total amount of neighbourhoods in each cluster.
