@@ -13,10 +13,11 @@ This project aims to utilize all Data Science Concepts learned in the IBM Data S
 My report is for those who are planning to start a new restaurant. 
 
 # Target Audience
-Entrepreneurs who are passionate about opening a italian restaurant in a metropolitan city would be very interested in this project. The project is also for business owners and stakeholders who want to expand their businesses and wonder how data science could be applied to the questions at hand. 
+This project is for business owners and stakeholders who want to expand their businesses and wonder how data science could be applied to the questions at hand.
+This would also appeal to the entrepreneurs who are passionate about opening an italian restaurant in a densly populated and diverse metropolitan city.
 
 #  Data Overview
-The data that will be required will be a combination of CSV files that have been prepared for the purposes of the analysis from multiple sources which will provide the list of neighbourhoods in Toronto (via Wikipedia), the Geographical location of the neighbourhoods (via Geocoder package) and Venue data pertaining to Italian restaurants (via Foursquare). The Venue data will help find which neighbourhood is best suitable to open an Italian restaurant.
+The data that is required will be a combination of CSV files that have been prepared for the purposes of the analysis from multiple sources which will provide the list of neighbourhoods in Toronto (via Wikipedia), the Geographical location of the neighbourhoods (via a given dataset) and Venue data pertaining to Italian restaurants (via Foursquare). The Venue data will help find which neighbourhood is best suitable to open an Italian restaurant.
 
 ### Data Aquisition
 
