@@ -1,5 +1,6 @@
 # IBM Data Science Professional Certificate Capstone Project 
-This project aims to utilize all Data Science Concepts learned in the IBM Data Science Professional Course. We define a Business Problem, the data that will be utilized and using that data, we are able to analyze it using Machine Learning tools. In this project, we will go through all the processes in a step by step manner from problem designing, data preparation to final analysis and finally will provide a conclusion that can be leveraged by the business stakeholders to make their decisions.
+This project aims to utilize all Data Science Concepts learned in the IBM Data Science Professional Course. 
+First step is to define a Business Problem. Second it is essential to utilize that data so that it is easy to analyze using Machine Learning concepts. This project spans through problem designing, data preparation such as cleaning and exploration, model selection, and final analysis and will provide a conclusion that can be leveraged by the business stakeholders to make their decisions.
 
 # Table of Contents
 - Introduction
